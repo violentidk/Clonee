@@ -7,7 +7,7 @@ from time import sleep
 YOU NEED TO CHANGE THESE VARIABLES
 """
 cookie = "INSERT COOKIE HERE"
-authorization = "INSERT AUTHORIZATION VALUE HERE e.g. Basic KzQ5MTc2NzA4Njc1MDQ6MUZCRjAwMEYtQkQzRC00RjgwLUE5NUItRUZFODg4RjYzQzVB"
+authorization = "KzQ5MTc2NzA4Njc1MDQ6MUZCRjAwMEYtQkQzRC00RjgwLUE5NUItRUZFODg4RjYzQzVB"
 payment_instrument_id = "adyen_paypal\/6216325090316059"
 
 """
